@@ -1,0 +1,39 @@
+/* Ethan Spilker 2021 */
+body{
+    color: black;
+    font-family:calibri;
+}
+h2{
+    color:rgb(0, 0, 109);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* h3{ 
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+}*/
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 5px solid black;
+}
+.italic{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+.bold{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+}
+.anchor{
+    margin-left: 10%;
+    text-align: left;
+    color:rgb(0, 0, 109);
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+
+}
